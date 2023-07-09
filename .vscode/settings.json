@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/Users/jeromew/Projects/"
+    ],
+    "python.analysis.extraPaths": [
+        "/Users/jeromew/Projects/"
+      ]
+}
